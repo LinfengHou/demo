@@ -1,7 +1,5 @@
 #README
 
 Hello Git!
-git bash
 
-
-新增内容
+第一次使用这个工具！！
